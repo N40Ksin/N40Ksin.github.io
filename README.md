@@ -2,4 +2,4 @@
 My Data Science Portfolio
 
 
-I will be updating this space with more information as and when I get through my data journey
+I will be updating this space with more information soon.
